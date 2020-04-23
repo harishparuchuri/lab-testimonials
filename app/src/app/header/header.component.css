@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    background: white;
+    box-shadow: aliceblue;
+}
+
+.image1{
+    padding-left:40px;
+
+}
+.image2{
+   margin-left: 600px;
+
+   }
